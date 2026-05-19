@@ -1,0 +1,20 @@
+<DOCTYPE! Html>
+
+
+<header>
+<div id="Greeting Logo and Name">
+<div id="Pages List">
+</header>
+
+
+<body>
+<div id="Cooking">
+<div id="Pages Lists">
+<div id="Recipe"?
+</body>
+
+
+
+<footer>
+<div id="Farewell">
+</footer>
